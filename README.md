@@ -1,4 +1,4 @@
-# CypressautomationTest
+# CypressAutomationTest
 This is a cypress automation test.
 
 You need to have node and cypress installed in your system.
